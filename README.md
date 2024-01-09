@@ -1,4 +1,4 @@
-# Basic Machine Learnining Projects
+# Basic Machine Learning Projects
 Linear Regression
 Linear regression is a statistical technique that seeks to establish a linear relationship between a
 dependent variable (Y) and one or multiple independent variables (X), by minimizing the sum of
